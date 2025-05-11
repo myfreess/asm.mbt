@@ -1,0 +1,9 @@
+{
+    "name": "myfreess/asm_test",
+    "version": "0.1.0",
+    "deps": {
+      "myfreess/asm": {
+        "path": ".."
+      }
+    }
+  }
